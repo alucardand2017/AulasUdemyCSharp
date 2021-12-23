@@ -1,0 +1,13 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\bin\Debug\netcoreapp3.1\ModificadoresParametros.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\Calculadora\obj\Debug\netcoreapp3.1\ModificadoresParametros.genruntimeconfig.cache

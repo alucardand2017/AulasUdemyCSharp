@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\bin\Debug\netcoreapp3.1\AluguelQuartos.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\AluguelQuartos\obj\Debug\netcoreapp3.1\AluguelQuartos.genruntimeconfig.cache

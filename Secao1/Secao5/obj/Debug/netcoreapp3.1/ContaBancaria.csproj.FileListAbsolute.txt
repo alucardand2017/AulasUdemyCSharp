@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao1\Secao5\obj\Debug\netcoreapp3.1\ContaBancaria.genruntimeconfig.cache

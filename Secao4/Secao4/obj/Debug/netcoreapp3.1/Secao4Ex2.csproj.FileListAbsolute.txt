@@ -1,0 +1,13 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\bin\Debug\netcoreapp3.1\Secao4Ex2.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\Secao4\obj\Debug\netcoreapp3.1\Secao4Ex2.genruntimeconfig.cache

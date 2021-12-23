@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\bin\Debug\netcoreapp3.1\VetoresProduto.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\VetoresProduto\obj\Debug\netcoreapp3.1\VetoresProduto.genruntimeconfig.cache

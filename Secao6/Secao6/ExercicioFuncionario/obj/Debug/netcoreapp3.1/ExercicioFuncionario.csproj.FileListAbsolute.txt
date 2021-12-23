@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\bin\Debug\netcoreapp3.1\ExercicioFuncionario.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\ExercicioFuncionario\obj\Debug\netcoreapp3.1\ExercicioFuncionario.genruntimeconfig.cache

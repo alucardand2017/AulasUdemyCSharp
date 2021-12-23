@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.genruntimeconfig.cache

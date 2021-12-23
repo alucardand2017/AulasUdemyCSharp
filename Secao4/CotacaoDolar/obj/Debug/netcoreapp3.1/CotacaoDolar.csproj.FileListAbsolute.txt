@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.genruntimeconfig.cache

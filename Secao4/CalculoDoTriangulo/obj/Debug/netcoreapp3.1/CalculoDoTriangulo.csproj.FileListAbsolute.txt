@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\bin\Debug\netcoreapp3.1\CalculoDoTriangulo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\CalculoDoTriangulo\obj\Debug\netcoreapp3.1\CalculoDoTriangulo.genruntimeconfig.cache

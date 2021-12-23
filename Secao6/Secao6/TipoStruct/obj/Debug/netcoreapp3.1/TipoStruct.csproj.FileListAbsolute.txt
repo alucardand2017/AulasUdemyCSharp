@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\bin\Debug\netcoreapp3.1\TipoStruct.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao6\Secao6\TipoStruct\obj\Debug\netcoreapp3.1\TipoStruct.genruntimeconfig.cache

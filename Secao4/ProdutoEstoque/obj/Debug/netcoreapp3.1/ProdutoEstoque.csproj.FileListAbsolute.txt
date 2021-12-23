@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao4\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.genruntimeconfig.cache
