@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T03:24:05.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0aHsPJhuripL8nLyo-DZ" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-28T03:37:09.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="j0a8QzU6mMsB1A196fAB" version="16.1.0" type="github" pages="2">
   <diagram name="Comentarios Post" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1730" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -237,6 +237,12 @@
         </mxCell>
         <mxCell id="Db5S8MDEQLkZunfpuzRh-43" value="Exercicio Fixação" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=30;" vertex="1" parent="eAnbiW0WsGfG-6flV4rH-1">
           <mxGeometry x="30" y="10" width="780" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Db5S8MDEQLkZunfpuzRh-45" value="&lt;h1&gt;NA TELA&lt;/h1&gt;&lt;p&gt;Enter clinet &lt;font color=&quot;#ff0000&quot;&gt;data&lt;/font&gt;:&lt;/p&gt;&lt;p&gt;Name: &lt;font color=&quot;#ff0000&quot;&gt;Alex Green&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Email: &lt;font color=&quot;#ff0000&quot;&gt;Alex@gmail.com&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Birth date (DD/MM/YYYY): &lt;font color=&quot;#ff0000&quot;&gt;15/03/1985&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Enter order data:&lt;/p&gt;&lt;p&gt;Status: &lt;font color=&quot;#ff0000&quot;&gt;Processing&lt;/font&gt;&lt;/p&gt;&lt;p&gt;How many items to this order? &lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Enter #1 item data:&lt;/p&gt;&lt;p&gt;Produtc name: &lt;font color=&quot;#ff0000&quot;&gt;TV&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Product price: &lt;font color=&quot;#ff0000&quot;&gt;1000.00&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Quantity: &lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="eAnbiW0WsGfG-6flV4rH-1">
+          <mxGeometry x="30" y="780" width="250" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Db5S8MDEQLkZunfpuzRh-46" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Enter #2 item data:&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Produtc name: &lt;font color=&quot;#ff0000&quot;&gt;Mouse&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Product price: &lt;font color=&quot;#ff0000&quot;&gt;40.00&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Qantity: &lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;&lt;/p&gt;&lt;p&gt;ORDER SUMMARY:&lt;/p&gt;&lt;p&gt;Order moment: 20/04/2018 11:25:09&lt;/p&gt;&lt;p&gt;Order status: Processing&lt;/p&gt;&lt;p&gt;Client: Alex Green (15/03/1985) - alex@gmail.com&lt;/p&gt;&lt;p&gt;Order items:&lt;/p&gt;&lt;p&gt;TV, U$ 1000.00, Quantity: 1, Subtotal: U$ 1000.00&lt;/p&gt;&lt;p&gt;Mouse, U$40.00 , Quantity: 2, Subtotal: U$80.00&lt;/p&gt;&lt;p&gt;Total price: U$1080.00&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="eAnbiW0WsGfG-6flV4rH-1">
+          <mxGeometry x="250" y="780" width="300" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
