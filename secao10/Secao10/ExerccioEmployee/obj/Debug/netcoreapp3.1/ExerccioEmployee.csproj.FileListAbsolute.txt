@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\bin\Debug\netcoreapp3.1\ExerccioEmployee.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExerccioEmployee\obj\Debug\netcoreapp3.1\ExerccioEmployee.genruntimeconfig.cache

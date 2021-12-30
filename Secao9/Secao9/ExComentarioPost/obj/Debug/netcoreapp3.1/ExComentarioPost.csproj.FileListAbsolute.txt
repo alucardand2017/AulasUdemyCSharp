@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\bin\Debug\netcoreapp3.1\ExComentarioPost.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao9\Secao9\ExComentarioPost\obj\Debug\netcoreapp3.1\ExComentarioPost.genruntimeconfig.cache

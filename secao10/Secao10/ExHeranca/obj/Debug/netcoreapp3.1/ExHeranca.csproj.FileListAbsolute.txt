@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\bin\Debug\netcoreapp3.1\ExHeranca.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExHeranca\obj\Debug\netcoreapp3.1\ExHeranca.genruntimeconfig.cache

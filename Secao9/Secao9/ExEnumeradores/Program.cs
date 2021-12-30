@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Text;
 using ExEnumeradores.Entities.Enums;
 using ExEnumeradores.Entities;
 using System.Globalization;
-using System.Collections.Generic;
 
 namespace ExEnumeradores
 {
@@ -51,7 +49,7 @@ namespace ExEnumeradores
             int ano = int.Parse(mesAno.Substring(3));
             Console.WriteLine("Name: {0}", funcionario1.Name);
             Console.WriteLine("Department: {0}", funcionario1.Department.NameDepartment);
-            Console.WriteLine("Income for {0}:  {1}", mesAno, funcionario1.Income(ano, mes));
+            Console.WriteLine("Income for {0}:  {1}", mesAno, funcionario1.Income(ano, mes).ToString("F2", CultureInfo.InvariantCulture ));
         }
     }
 }

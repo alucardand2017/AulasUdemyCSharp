@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\bin\Debug\netcoreapp3.1\ExercicioGrupoDotNet.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioGrupoDotNet\obj\Debug\netcoreapp3.1\ExercicioGrupoDotNet.genruntimeconfig.cache
