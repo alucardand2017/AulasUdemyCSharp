@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExHeranca.Entities
 {
-    class Account
+    abstract class Account
     {
         public int Number { get; set; }
         public string Holder { get; private set; }

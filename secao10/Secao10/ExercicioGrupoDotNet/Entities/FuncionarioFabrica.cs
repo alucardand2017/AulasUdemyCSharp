@@ -6,7 +6,6 @@ namespace ExercicioGrupoDotNet.Entities
     {
         public double HoraExtra60 { get; set; }
         public double AddNoturno { get; set; }
-
         public FuncionarioFabrica(int numRegistro, string nome, double salarioClt, double horasAcumuladas, double horaExtra60, double addNoturno) : base(numRegistro, nome, salarioClt, horasAcumuladas)
         {
             HoraExtra60 = horaExtra60;

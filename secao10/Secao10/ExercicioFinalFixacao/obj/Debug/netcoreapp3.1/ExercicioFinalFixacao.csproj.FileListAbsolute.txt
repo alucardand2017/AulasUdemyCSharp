@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\bin\Debug\netcoreapp3.1\ExercicioFinalFixacao.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioFinalFixacao\obj\Debug\netcoreapp3.1\ExercicioFinalFixacao.genruntimeconfig.cache

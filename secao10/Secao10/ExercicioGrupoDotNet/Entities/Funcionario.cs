@@ -24,20 +24,29 @@ namespace ExercicioGrupoDotNet.Entities
         }
         public double CalcularValorDaHora()
         {
-            return SalarioClt / 180;
+            return SalarioClt / 220;
         }
         public virtual double CalcularImposto()
         {
-            if (CalcularSalarioBruto() < 3300.00)
-                return 0.09 * CalcularSalarioBruto();
-            else
+            if (CalcularSalarioBruto() > 6433.47)
+                return 0.14 * 6433.47;
+            
+            else if (CalcularSalarioBruto() > 3305.22 && CalcularSalarioBruto() < 6433.47)
+                return 0.14 * CalcularSalarioBruto();
+            
+            else if (CalcularSalarioBruto() > 2203.22 && CalcularSalarioBruto() < 3305.22)
                 return 0.12 * CalcularSalarioBruto();
+            
+            else if (CalcularSalarioBruto() > 1100 && CalcularSalarioBruto() < 2203.22)
+                return 0.09 * CalcularSalarioBruto();
+            
+            else 
+                return 0.075 * CalcularSalarioBruto();
         }
         public virtual double CalcularSalarioLiquido()
         {
             return CalcularSalarioBruto() - CalcularImposto();
         }
-
         public override string ToString()
         {
             return
@@ -46,11 +55,11 @@ namespace ExercicioGrupoDotNet.Entities
                 "\nRegistro = " +
                 NumRegistro +
                 "\nSalario Clt = " +
-                SalarioClt + 
+                SalarioClt.ToString("F2", CultureInfo.InvariantCulture) +
                 "\nHoras Acumuladas = " +
-                HorasAcumuladas +
-                "\nCálculo valor da hora = " + 
-                CalcularValorDaHora().ToString("F2", CultureInfo.InvariantCulture) + 
+                HorasAcumuladas.ToString("F2", CultureInfo.InvariantCulture) +
+                "\nCálculo valor da hora = " +
+                CalcularValorDaHora().ToString("F2", CultureInfo.InvariantCulture) +
                 "\nSalario Bruto = " +
                 CalcularSalarioBruto().ToString("F2", CultureInfo.InvariantCulture) +
                 "\nSalario Liquido = " +

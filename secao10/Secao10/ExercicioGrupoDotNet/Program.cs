@@ -8,11 +8,10 @@ namespace ExercicioGrupoDotNet
     {
         static void Main(string[] args)
         {
-            List<Funcionario> funcionarios = new List<Funcionario>();
-            funcionarios.Add(new FuncionarioAdm(123456, "Claudia", 1200.00, 20.00, 75.00));
-            funcionarios.Add(new FuncionarioFabrica(654321, "Claudio", 1200.00, 20.00, 60.00, 26.00));
-
-            foreach( Funcionario p in funcionarios)
+            var funcionarios = new List<Funcionario>();
+            funcionarios.Add(new FuncionarioAdm(123456, "Claudia", 1000.00, 10.00, 75.00));
+            funcionarios.Add(new FuncionarioFabrica(654321, "Claudio", 1000.00, 10.00, 60.00, 30.00));
+            foreach (var p in funcionarios)
             {
                 Console.WriteLine(p);
             }

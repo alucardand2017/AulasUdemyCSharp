@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\bin\Debug\netcoreapp3.1\ExercicioAreasFiguras.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\secao10\Secao10\ExercicioAreasFiguras\obj\Debug\netcoreapp3.1\ExercicioAreasFiguras.genruntimeconfig.cache
