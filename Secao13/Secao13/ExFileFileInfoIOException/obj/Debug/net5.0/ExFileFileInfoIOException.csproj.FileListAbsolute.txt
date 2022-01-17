@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ref\ExFileFileInfoIOException.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\bin\Debug\net5.0\ExFileFileInfoIOException.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ref\ExFileFileInfoIOException.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExFileFileInfoIOException\obj\Debug\net5.0\ExFileFileInfoIOException.genruntimeconfig.cache

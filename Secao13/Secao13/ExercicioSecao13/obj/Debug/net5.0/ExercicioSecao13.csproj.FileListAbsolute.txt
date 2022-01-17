@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ref\ExercicioSecao13.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\bin\Debug\net5.0\ExercicioSecao13.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ref\ExercicioSecao13.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.genruntimeconfig.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExercicioSecao13\obj\Debug\net5.0\ExercicioSecao13.csproj.AssemblyReference.cache

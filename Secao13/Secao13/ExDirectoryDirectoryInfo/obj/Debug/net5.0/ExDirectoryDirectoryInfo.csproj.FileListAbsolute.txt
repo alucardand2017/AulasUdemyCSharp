@@ -1,0 +1,15 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ref\ExDirectoryDirectoryInfo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\bin\Debug\net5.0\ExDirectoryDirectoryInfo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ref\ExDirectoryDirectoryInfo.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExDirectoryDirectoryInfo\obj\Debug\net5.0\ExDirectoryDirectoryInfo.genruntimeconfig.cache

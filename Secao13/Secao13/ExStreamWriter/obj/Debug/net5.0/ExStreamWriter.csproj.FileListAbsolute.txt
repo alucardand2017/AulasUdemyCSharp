@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ref\ExStreamWriter.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\bin\Debug\net5.0\ExStreamWriter.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ref\ExStreamWriter.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExStreamWriter\obj\Debug\net5.0\ExStreamWriter.genruntimeconfig.cache

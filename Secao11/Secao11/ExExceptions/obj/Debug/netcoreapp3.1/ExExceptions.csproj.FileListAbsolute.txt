@@ -1,0 +1,14 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\bin\Debug\netcoreapp3.1\ExExceptions.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao11\Secao11\ExExceptions\obj\Debug\netcoreapp3.1\ExExceptions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ref\ExercicioSecao14Interface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\bin\Debug\net5.0\ExercicioSecao14Interface.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ref\ExercicioSecao14Interface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioSecao14Interface\obj\Debug\net5.0\ExercicioSecao14Interface.genruntimeconfig.cache

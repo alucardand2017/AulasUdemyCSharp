@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ref\ExInterface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\bin\Debug\net5.0\ExInterface.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ref\ExInterface.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterface\obj\Debug\net5.0\ExInterface.genruntimeconfig.cache

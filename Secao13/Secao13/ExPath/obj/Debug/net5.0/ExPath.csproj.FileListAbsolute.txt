@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ref\ExPath.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\bin\Debug\net5.0\ExPath.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ref\ExPath.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.genruntimeconfig.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao13\Secao13\ExPath\obj\Debug\net5.0\ExPath.csproj.AssemblyReference.cache
