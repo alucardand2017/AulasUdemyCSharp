@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ref\ExHashSetESortedSet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\bin\Debug\net5.0\ExHashSetESortedSet.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ref\ExHashSetESortedSet.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.genruntimeconfig.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExHashSetESortedSet\obj\Debug\net5.0\ExHashSetESortedSet.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ref\ExDictionaryESortedDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\bin\Debug\net5.0\ExDictionaryESortedDictionary.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ref\ExDictionaryESortedDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExDictionaryESortedDictionary\obj\Debug\net5.0\ExDictionaryESortedDictionary.genruntimeconfig.cache

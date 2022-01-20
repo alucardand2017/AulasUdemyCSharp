@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ref\ExIComparable.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\bin\Debug\net5.0\ExIComparable.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ref\ExIComparable.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExIComparable\obj\Debug\net5.0\ExIComparable.genruntimeconfig.cache

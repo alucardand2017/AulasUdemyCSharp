@@ -1,0 +1,15 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ref\ExercicioResolvido.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\bin\Debug\net5.0\ExercicioResolvido.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ref\ExercicioResolvido.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioResolvido\obj\Debug\net5.0\ExercicioResolvido.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ref\ExInterfaceDiamante.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\bin\Debug\net5.0\ExInterfaceDiamante.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ref\ExInterfaceDiamante.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExInterfaceDiamante\obj\Debug\net5.0\ExInterfaceDiamante.genruntimeconfig.cache

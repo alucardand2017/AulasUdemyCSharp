@@ -38,17 +38,19 @@ namespace ExercicioSecao14Interface
                 double valueContract = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 if(valueContract < 0)
                     throw new DomainException("The contract value can't be a negative value!");
-                Contract contract = new Contract(number, start, valueContract);
                 Console.ForegroundColor = aux;
+                //Instancia o contrato
+                Contract contract = new Contract(number, start, valueContract);
 
                 Console.Write("Enter number of installments: ");
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 int installments = int.Parse(Console.ReadLine());
                 if (installments <= 0)
                     throw new ServiceException("The installments number can´t be less than 1!");
+                Console.ForegroundColor = aux;
+                //Instancia o PayService iniciando o ITaxService com o Paypall
                 Payservice pay = new Payservice(installments, new PayPallTaxService());
                 pay.ProcessInstallments(contract);
-                Console.ForegroundColor = aux;
                 
                 Console.WriteLine("Installments:");
                 Console.ForegroundColor = ConsoleColor.Yellow;

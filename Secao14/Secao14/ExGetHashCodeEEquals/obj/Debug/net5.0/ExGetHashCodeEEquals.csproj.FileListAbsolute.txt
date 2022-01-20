@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ref\ExGetHashCodeEEquals.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\bin\Debug\net5.0\ExGetHashCodeEEquals.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ref\ExGetHashCodeEEquals.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.genruntimeconfig.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGetHashCodeEEquals\obj\Debug\net5.0\ExGetHashCodeEEquals.csproj.AssemblyReference.cache

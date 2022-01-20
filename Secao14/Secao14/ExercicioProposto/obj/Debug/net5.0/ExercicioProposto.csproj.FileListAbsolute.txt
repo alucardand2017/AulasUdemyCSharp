@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ref\ExercicioProposto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ref\ExercicioProposto.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.genruntimeconfig.cache

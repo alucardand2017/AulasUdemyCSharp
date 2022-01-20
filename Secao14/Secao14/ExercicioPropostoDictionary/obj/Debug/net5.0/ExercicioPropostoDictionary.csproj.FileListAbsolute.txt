@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ref\ExercicioPropostoDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\bin\Debug\net5.0\ExercicioPropostoDictionary.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ref\ExercicioPropostoDictionary.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExercicioPropostoDictionary\obj\Debug\net5.0\ExercicioPropostoDictionary.genruntimeconfig.cache

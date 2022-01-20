@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ref\ExGenericsERestricoes.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\bin\Debug\net5.0\ExGenericsERestricoes.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ref\ExGenericsERestricoes.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\Secao14\Secao14\ExGenericsERestricoes\obj\Debug\net5.0\ExGenericsERestricoes.genruntimeconfig.cache

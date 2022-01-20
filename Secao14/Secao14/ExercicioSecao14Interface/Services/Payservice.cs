@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Globalization;
 using ExercicioSecao14Interface.Entities;
-using ExercicioSecao14Interface.Services;
 
 namespace ExercicioSecao14Interface.Services
 {
