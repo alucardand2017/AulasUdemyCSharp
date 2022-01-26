@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ref\ExLinqELambda.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\bin\Debug\net5.0\ExLinqELambda.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ref\ExLinqELambda.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExLinqELambda\obj\Debug\net5.0\ExLinqELambda.genruntimeconfig.cache

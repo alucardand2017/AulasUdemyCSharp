@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ref\ExDelegatePredicate.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\bin\Debug\net5.0\ExDelegatePredicate.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ref\ExDelegatePredicate.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatePredicate\obj\Debug\net5.0\ExDelegatePredicate.genruntimeconfig.cache

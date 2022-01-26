@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ref\ExAction.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\bin\Debug\net5.0\ExAction.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ref\ExAction.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.genruntimeconfig.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExAction\obj\Debug\net5.0\ExAction.csproj.AssemblyReference.cache

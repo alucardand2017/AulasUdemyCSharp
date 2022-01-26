@@ -1,0 +1,15 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ref\ExDelegateFunc.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\bin\Debug\net5.0\ExDelegateFunc.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ref\ExDelegateFunc.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegateFunc\obj\Debug\net5.0\ExDelegateFunc.genruntimeconfig.cache

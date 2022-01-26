@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ref\ExExtensionMethods.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\bin\Debug\net5.0\ExExtensionMethods.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ref\ExExtensionMethods.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExExtensionMethods\obj\Debug\net5.0\ExExtensionMethods.genruntimeconfig.cache

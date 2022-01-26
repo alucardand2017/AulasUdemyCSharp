@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ref\ExComparisonTDelegates.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\bin\Debug\net5.0\ExComparisonTDelegates.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ref\ExComparisonTDelegates.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExComparisonTDelegates\obj\Debug\net5.0\ExComparisonTDelegates.genruntimeconfig.cache

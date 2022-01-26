@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ref\ExDelegatesActFuncPred.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\bin\Debug\net5.0\ExDelegatesActFuncPred.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ref\ExDelegatesActFuncPred.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExDelegatesActFuncPred\obj\Debug\net5.0\ExDelegatesActFuncPred.genruntimeconfig.cache

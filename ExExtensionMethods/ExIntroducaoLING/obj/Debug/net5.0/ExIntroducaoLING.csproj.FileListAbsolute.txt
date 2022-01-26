@@ -1,0 +1,16 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ref\ExIntroducaoLING.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\bin\Debug\net5.0\ExIntroducaoLING.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.csproj.AssemblyReference.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ref\ExIntroducaoLING.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExIntroducaoLING\obj\Debug\net5.0\ExIntroducaoLING.genruntimeconfig.cache

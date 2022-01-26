@@ -1,0 +1,15 @@
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.exe
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.deps.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.dev.json
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ref\ExercicioFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfoInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfo.cs
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ref\ExercicioFixacao.dll
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.pdb
+A:\ANDERSON\EstudoCSharp\VideoAulasCSharp\AulasUdemyCSharp\ExExtensionMethods\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.genruntimeconfig.cache
